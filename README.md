@@ -1,2 +1,7 @@
 # Image_processing
-Note for image processing
+暑假学了一下图像处理 学了和没学没有区别 那么长的函数，谁记得下来啊
+代码是两个小项目
+一个是换图片的背景
+一个是换视频的背景
+这么简单的代码还弄了超级无敌久
+ohno
