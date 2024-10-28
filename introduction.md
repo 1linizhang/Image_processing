@@ -49,6 +49,8 @@ This is first day to learn the mark down is guchenhui teach licongming .zhixie
 不知道我们最后能不能分辨出来哪句话是哪个人写的，哈哈哈哈
 记录一下时间    2024.9.20    21.46
 
+10.28
+咕咕现在是emo的神 还帮我弄GITHUB 过于感动了 以至于我不写个10宗罪都对不起他 ，咕咕还吃醋我给博士写，殊不知第一个就是给他写的 
 
 
 
